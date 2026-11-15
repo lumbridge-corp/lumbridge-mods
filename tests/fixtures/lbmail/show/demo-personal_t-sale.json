@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m9",
+    "from": "Shop Example <offers@shop.example>",
+    "date": 1794171600,
+    "subject": "40% off everything this weekend",
+    "text": "Our biggest sale of the year starts now.",
+    "attachments": [],
+    "sensitive": false
+  }
+]

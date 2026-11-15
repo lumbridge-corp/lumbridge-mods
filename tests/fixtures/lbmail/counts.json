@@ -1,0 +1,32 @@
+[
+  {
+    "category": "transactional",
+    "threads": 3,
+    "unread": 2
+  },
+  {
+    "category": "newsletter",
+    "threads": 1,
+    "unread": 1
+  },
+  {
+    "category": "promotion",
+    "threads": 1,
+    "unread": 1
+  },
+  {
+    "category": "notification",
+    "threads": 4,
+    "unread": 4
+  },
+  {
+    "category": "sensitive",
+    "threads": 1,
+    "unread": 1
+  },
+  {
+    "category": "other",
+    "threads": 10,
+    "unread": 8
+  }
+]

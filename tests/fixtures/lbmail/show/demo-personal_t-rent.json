@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m10",
+    "from": "Lena Park <lena@friends.example>",
+    "date": 1794182400,
+    "subject": "Rent split for December",
+    "text": "Hey, December rent is due on the 1st. Can you send your half by Friday?",
+    "attachments": [],
+    "sensitive": false
+  }
+]

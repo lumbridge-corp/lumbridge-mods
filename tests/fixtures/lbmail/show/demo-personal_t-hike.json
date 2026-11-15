@@ -1,0 +1,13 @@
+[
+  {
+    "id": "m7",
+    "from": "Bo Okafor <bo@friends.example>",
+    "date": 1794034800,
+    "subject": "Photos from the hike",
+    "text": "Here is the trail map from Sunday. Same route next month?",
+    "attachments": [
+      "hike-map.pdf (application/pdf, 21 bytes)"
+    ],
+    "sensitive": false
+  }
+]

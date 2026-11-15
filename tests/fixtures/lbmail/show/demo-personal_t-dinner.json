@@ -1,0 +1,29 @@
+[
+  {
+    "id": "m1",
+    "from": "Maya Chen <maya@friends.example>",
+    "date": 1794106800,
+    "subject": "Dinner Saturday?",
+    "text": "Hi Sam,\n\nAre you free for dinner on Saturday? The new noodle place on Elm Street opens at 7.\n\nMaya",
+    "attachments": [],
+    "sensitive": false
+  },
+  {
+    "id": "m2",
+    "from": "Sam Example <sam@personal.example>",
+    "date": 1794114000,
+    "subject": "Re: Dinner Saturday?",
+    "text": "Sounds great. Can we make it 7:30?",
+    "attachments": [],
+    "sensitive": false
+  },
+  {
+    "id": "m3",
+    "from": "Maya Chen <maya@friends.example>",
+    "date": 1794204000,
+    "subject": "Re: Dinner Saturday?",
+    "text": "7:30 works. Could you book a table for four? Bo and Lena are coming too.",
+    "attachments": [],
+    "sensitive": false
+  }
+]

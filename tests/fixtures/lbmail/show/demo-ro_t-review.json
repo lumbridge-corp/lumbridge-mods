@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m3",
+    "from": "Calendar <calendar-notification@work.example>",
+    "date": 1794186000,
+    "subject": "Invitation: Design review @ Wed 11 Nov 2026 14:00",
+    "text": "You have been invited to Design review on Wednesday at 14:00.",
+    "attachments": [],
+    "sensitive": false
+  }
+]

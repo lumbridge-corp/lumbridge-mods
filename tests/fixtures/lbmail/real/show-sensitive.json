@@ -1,0 +1,17 @@
+[
+  {
+    "id": "272a0f4226e52b37",
+    "from": "Northbank <no-reply@northbank.example>",
+    "date": 1794429117,
+    "subject": "Bank or money mail from Northbank",
+    "text": "Bank or money mail from Northbank",
+    "new_text": "Bank or money mail from Northbank",
+    "attachments": [],
+    "sensitive": true,
+    "mailing_list": false,
+    "list_id": null,
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  }
+]

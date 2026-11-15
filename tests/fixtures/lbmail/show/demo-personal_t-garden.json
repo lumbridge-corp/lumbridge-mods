@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m5",
+    "from": "The Weekly Garden <weekly@garden.example>",
+    "date": 1794142800,
+    "subject": "Issue 42: autumn bulbs",
+    "text": "Autumn bulbs\n\nPlant tulips before the first frost.\n\nRead online <https://garden.example/42>",
+    "attachments": [],
+    "sensitive": false
+  }
+]

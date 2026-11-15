@@ -1,0 +1,28 @@
+# The scrub check, then scripts/ci.sh without the app (syntax checks and the logic tests), on a GitHub-hosted
+# runner. `lumbridge-app check` needs the app, which has no download yet: run scripts/ci.sh locally for that.
+# No secrets are needed. Actions are pinned to a commit.
+name: CI
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  checks:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Scrub check
+        run: scripts/scrub-check
+      - name: Checks (scripts/ci.sh)
+        env:
+          LUMBRIDGE_MODS_NO_APP: "1"
+        run: scripts/ci.sh

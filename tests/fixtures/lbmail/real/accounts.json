@@ -1,0 +1,46 @@
+[
+  {
+    "id": "gmail",
+    "persona": "personal",
+    "label": "Gmail",
+    "email": "sam@personal.example",
+    "name": "Sam Rivera",
+    "provider": "gog",
+    "color": "#4f8cff",
+    "ai": "local_only",
+    "readonly": true
+  },
+  {
+    "id": "gmail-two",
+    "persona": "personal",
+    "label": "Gmail (two)",
+    "email": "sam.two@personal.example",
+    "name": "Sam Rivera",
+    "provider": "gog",
+    "color": "#34c38f",
+    "ai": "local_only",
+    "readonly": true
+  },
+  {
+    "id": "resend-acme",
+    "persona": "work",
+    "label": "Acme (Resend)",
+    "email": "hello@acme.example",
+    "name": "Acme",
+    "provider": "resend",
+    "color": "#c060d0",
+    "ai": "local_only",
+    "readonly": true
+  },
+  {
+    "id": "zoho",
+    "persona": "work",
+    "label": "Zoho",
+    "email": "mail@rivera.example",
+    "name": "Sam Rivera",
+    "provider": "zoho",
+    "color": "#e0a030",
+    "ai": "local_only",
+    "readonly": true
+  }
+]

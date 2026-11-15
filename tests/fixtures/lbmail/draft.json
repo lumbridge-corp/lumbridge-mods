@@ -1,0 +1,18 @@
+{
+  "local_id": "d-made-up-1",
+  "to": [
+    {
+      "name": "Priya Raman",
+      "email": "priya@work.example"
+    }
+  ],
+  "cc": [],
+  "bcc": [],
+  "subject": "Re: Q4 planning: need your input by Thursday",
+  "text": "Hi Priya,\n\nThanks for the nudge. I'll add our three priorities to the doc by Wednesday.\n\nSam",
+  "html": null,
+  "reply_to": "m1",
+  "in_reply_to": null,
+  "references": [],
+  "attachments": []
+}

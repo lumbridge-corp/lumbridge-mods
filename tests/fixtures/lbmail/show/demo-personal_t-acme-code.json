@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m4",
+    "from": "Acme <no-reply@acme.example>",
+    "date": 1794211200,
+    "subject": "A security code from Acme",
+    "text": "A security code from Acme",
+    "attachments": [],
+    "sensitive": true
+  }
+]

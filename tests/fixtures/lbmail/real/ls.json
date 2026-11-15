@@ -1,0 +1,197 @@
+{
+  "threads": [
+    {
+      "id": "3576fb73a1c9c8a5",
+      "account": "gmail",
+      "subject": "Build 214 passed on main",
+      "snippet": "All 312 checks passed.",
+      "participants": [
+        {
+          "name": "Priya Raman",
+          "email": "priya@work.example"
+        }
+      ],
+      "message_count": 1,
+      "unread_count": 1,
+      "date": 1794435020,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "INBOX",
+        "ALL",
+        "CATEGORY_PROMOTIONS"
+      ],
+      "triage": {
+        "category": "notification",
+        "priority": 25,
+        "summary": "Notification from the build system",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794435121,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "2e46b468bc8bf0cf",
+      "account": "gmail-two",
+      "subject": "Your receipt from Harborline",
+      "snippet": "Order 1042: one desk lamp. Total 48.00.",
+      "participants": [
+        {
+          "name": null,
+          "email": "billing@harborline.example"
+        }
+      ],
+      "message_count": 2,
+      "unread_count": 2,
+      "date": 1794431181,
+      "flagged": false,
+      "has_attachments": true,
+      "mailboxes": [
+        "INBOX",
+        "IMPORTANT",
+        "ALL",
+        "CATEGORY_PERSONAL",
+        "CATEGORY_UPDATES"
+      ],
+      "triage": {
+        "category": "transactional",
+        "priority": 30,
+        "summary": "A receipt for a desk lamp",
+        "needs_reply": false,
+        "due": null,
+        "by": "mailhost/brain",
+        "at": 1794431357,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "c30140eadb0ccdb592",
+      "account": "resend-acme",
+      "subject": "Build 214 passed on main",
+      "snippet": "All 312 checks passed.",
+      "participants": [
+        {
+          "name": null,
+          "email": "news@brightdesk.example"
+        }
+      ],
+      "message_count": 3,
+      "unread_count": 3,
+      "date": 1794408106,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "inbox"
+      ],
+      "triage": {
+        "category": "notification",
+        "priority": 25,
+        "summary": "Notification from the build system",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794408107,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "1889879276988175596",
+      "account": "zoho",
+      "subject": "The Weekly Brief: issue 48",
+      "snippet": "Five things worth reading this week.",
+      "participants": [
+        {
+          "name": null,
+          "email": "no-reply@northbank.example"
+        }
+      ],
+      "message_count": 1,
+      "unread_count": 1,
+      "date": 1794426218,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "12404173808443575"
+      ],
+      "triage": {
+        "category": "newsletter",
+        "priority": 15,
+        "summary": "A weekly newsletter",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794426249,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "272a0f4226e52b37",
+      "account": "gmail",
+      "subject": "Bank or money mail from Northbank",
+      "snippet": "",
+      "participants": [
+        {
+          "name": "Northbank",
+          "email": "no-reply@northbank.example"
+        }
+      ],
+      "message_count": 1,
+      "unread_count": 1,
+      "date": 1794429117,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "INBOX",
+        "ALL",
+        "CATEGORY_UPDATES"
+      ],
+      "triage": {
+        "category": "sensitive",
+        "priority": 60,
+        "summary": "Bank or money mail from Northbank",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794429295,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "2340517590157791931",
+      "account": "zoho",
+      "subject": "Q4 planning: need your input by Thursday",
+      "snippet": "Please add your three priorities by Thursday.",
+      "participants": [
+        {
+          "name": null,
+          "email": "alerts@ops.example"
+        },
+        {
+          "name": "Harborline",
+          "email": "team@harborline.example"
+        }
+      ],
+      "message_count": 5,
+      "unread_count": 4,
+      "date": 1793394721,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "12404173808443575"
+      ],
+      "triage": {
+        "category": "important",
+        "priority": 85,
+        "summary": "Priya asks for Q4 priorities by Thursday",
+        "needs_reply": true,
+        "due": 1793577540,
+        "by": "mailhost/brain",
+        "at": 1794368563,
+        "suspicious": false
+      }
+    }
+  ],
+  "next": "1794360807.2236"
+}

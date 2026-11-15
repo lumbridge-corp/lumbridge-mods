@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m6",
+    "from": "Monitoring <monitor@ops.work.example>",
+    "date": 1794211200,
+    "subject": "Disk at 91% on web-3",
+    "text": "web-3 /var is at 91%.",
+    "attachments": [],
+    "sensitive": false
+  }
+]

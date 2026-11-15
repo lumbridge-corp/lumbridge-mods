@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m2",
+    "from": "GitHub <notifications@github.com>",
+    "date": 1794207600,
+    "subject": "[acme/app] Build failed: main (#1290)",
+    "text": "The build for main failed at step test.\n\nView the run on GitHub.",
+    "attachments": [],
+    "sensitive": false
+  }
+]

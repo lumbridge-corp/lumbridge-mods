@@ -1,0 +1,11 @@
+[
+  {
+    "id": "m6",
+    "from": "Bean Co <receipts@beanco.example>",
+    "date": 1794121200,
+    "subject": "Your receipt from Bean Co",
+    "text": "Thanks for your order.\n\n1 x Flat white  4.20\nTotal: 4.20\n\nOrder #A-1042",
+    "attachments": [],
+    "sensitive": false
+  }
+]

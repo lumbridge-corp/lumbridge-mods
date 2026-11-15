@@ -1,0 +1,12 @@
+{
+  "name": "lumbridge-mods",
+  "private": true,
+  "license": "Apache-2.0",
+  "type": "module",
+  "description": "Mods for the Lumbridge desktop app: Favorites, Restore and Mail, the shared kit, and scripts to check and install them.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumbridge-corp/lumbridge-mods.git"
+  },
+  "homepage": "https://lumbridgecorp.com"
+}

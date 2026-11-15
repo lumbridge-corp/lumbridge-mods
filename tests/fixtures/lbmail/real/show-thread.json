@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2863910065269635680",
+    "from": "priya@work.example",
+    "date": 1794346158,
+    "subject": "Q4 planning: need your input by Thursday",
+    "text": "Hi Sam,\n\nPlease add your team's three priorities to the planning doc by Thursday.\n\nPriya\n\nOn Mon, 2 Nov 2026 at 09:12, Sam Rivera wrote:\n> Which doc do you mean?\n> The one from last quarter?",
+    "new_text": "Hi Sam,\n\nPlease add your team's three priorities to the planning doc by Thursday.\n\nPriya\n\nOn Mon, 2 Nov 2026 at 09:12, Sam Rivera wrote:\n> Which doc do you mean?\n> The one from last quarter?",
+    "attachments": [],
+    "sensitive": false,
+    "mailing_list": true,
+    "list_id": "weekly.brightdesk.example",
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  },
+  {
+    "id": "3788533095660565326",
+    "from": "priya@work.example",
+    "date": 1794346164,
+    "subject": "Q4 planning: need your input by Thursday",
+    "text": "Thanks, done.",
+    "new_text": "Thanks, done.",
+    "attachments": [],
+    "sensitive": false,
+    "mailing_list": true,
+    "list_id": "weekly.brightdesk.example",
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  },
+  {
+    "id": "7561019632319774481",
+    "from": "priya@work.example",
+    "date": 1794380481,
+    "subject": "Q4 planning: need your input by Thursday",
+    "text": "Great, see you Friday.",
+    "new_text": "Great, see you Friday.",
+    "attachments": [],
+    "sensitive": false,
+    "mailing_list": true,
+    "list_id": "weekly.brightdesk.example",
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  }
+]

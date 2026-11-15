@@ -1,0 +1,46 @@
+[
+  {
+    "id": "demo-anon",
+    "persona": "anon",
+    "label": "Anon",
+    "email": "x@anon.example",
+    "name": "X",
+    "provider": "demo",
+    "color": null,
+    "ai": "local_only",
+    "readonly": false
+  },
+  {
+    "id": "demo-personal",
+    "persona": "personal",
+    "label": "Personal",
+    "email": "sam@personal.example",
+    "name": "Sam Example",
+    "provider": "demo",
+    "color": "#2a78d6",
+    "ai": "local_only",
+    "readonly": false
+  },
+  {
+    "id": "demo-ro",
+    "persona": "work",
+    "label": "Work (read-only)",
+    "email": "ro@work.example",
+    "name": "Sam RO",
+    "provider": "demo",
+    "color": null,
+    "ai": "local_only",
+    "readonly": true
+  },
+  {
+    "id": "demo-work",
+    "persona": "work",
+    "label": "Work",
+    "email": "sam@work.example",
+    "name": "Sam Example",
+    "provider": "demo",
+    "color": "#eb6834",
+    "ai": "local_only",
+    "readonly": false
+  }
+]

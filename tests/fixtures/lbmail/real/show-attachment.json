@@ -1,0 +1,36 @@
+[
+  {
+    "id": "2e46b468bc8bf0cf",
+    "from": "billing@harborline.example",
+    "date": 1794431171,
+    "subject": "Your receipt from Harborline",
+    "text": "Your receipt is attached.",
+    "new_text": "Your receipt is attached.",
+    "attachments": [
+      "invoice-1042.pdf (application/pdf, 48211 bytes)"
+    ],
+    "sensitive": false,
+    "mailing_list": false,
+    "list_id": null,
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  },
+  {
+    "id": "d33cbc20b8511415",
+    "from": "billing@harborline.example",
+    "date": 1794431181,
+    "subject": "Your receipt from Harborline",
+    "text": "Thank you.",
+    "new_text": "Thank you.",
+    "attachments": [
+      "invoice-1042.pdf (application/pdf, 48211 bytes)"
+    ],
+    "sensitive": false,
+    "mailing_list": false,
+    "list_id": null,
+    "suspicious": false,
+    "suspicious_why": [],
+    "reply_to_differs": false
+  }
+]

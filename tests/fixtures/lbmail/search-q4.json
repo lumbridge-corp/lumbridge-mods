@@ -1,0 +1,65 @@
+{
+  "threads": [
+    {
+      "id": "t-q4",
+      "account": "demo-work",
+      "subject": "Q4 planning: need your input by Thursday",
+      "snippet": "Hi Sam, Please add your team's three priorities to the Q4 planning doc by Thursday. We review them on Friday morning. Priya",
+      "participants": [
+        {
+          "name": "Priya Raman",
+          "email": "priya@work.example"
+        }
+      ],
+      "message_count": 1,
+      "unread_count": 1,
+      "date": 1794200400,
+      "flagged": true,
+      "has_attachments": false,
+      "mailboxes": [
+        "INBOX"
+      ],
+      "triage": {
+        "category": "other",
+        "priority": 40,
+        "summary": "Mail from Priya Raman",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794352003,
+        "suspicious": false
+      }
+    },
+    {
+      "id": "t-q4",
+      "account": "demo-ro",
+      "subject": "Q4 planning: need your input by Thursday",
+      "snippet": "Hi Sam, Please add your team's three priorities to the Q4 planning doc by Thursday. We review them on Friday morning. Priya",
+      "participants": [
+        {
+          "name": "Priya Raman",
+          "email": "priya@work.example"
+        }
+      ],
+      "message_count": 1,
+      "unread_count": 1,
+      "date": 1794200400,
+      "flagged": false,
+      "has_attachments": false,
+      "mailboxes": [
+        "INBOX"
+      ],
+      "triage": {
+        "category": "other",
+        "priority": 40,
+        "summary": "Mail from Priya Raman",
+        "needs_reply": false,
+        "due": null,
+        "by": "rules",
+        "at": 1794352003,
+        "suspicious": false
+      }
+    }
+  ],
+  "next": null
+}

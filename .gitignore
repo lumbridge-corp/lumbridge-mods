@@ -1,0 +1,9 @@
+*.png
+# Except the docs screenshots, which are committed on purpose (and must survive a fresh git add).
+!docs/img/*.png
+node_modules/
+.DS_Store
+# Written by lumbridge-app check / the app itself; regenerated per app version
+mods/**/gpui-kit.d.ts
+mods/**/lumbridge.d.ts
+mods/**/jsconfig.json

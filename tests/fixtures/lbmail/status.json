@@ -1,0 +1,30 @@
+[
+  {
+    "account": "demo-anon",
+    "online": true,
+    "last_sync": 1794352003,
+    "queued": 0,
+    "error": null
+  },
+  {
+    "account": "demo-personal",
+    "online": true,
+    "last_sync": 1794352003,
+    "queued": 0,
+    "error": null
+  },
+  {
+    "account": "demo-ro",
+    "online": true,
+    "last_sync": 1794352003,
+    "queued": 0,
+    "error": null
+  },
+  {
+    "account": "demo-work",
+    "online": true,
+    "last_sync": 1794352003,
+    "queued": 0,
+    "error": null
+  }
+]

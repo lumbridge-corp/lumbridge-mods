@@ -1,0 +1,13 @@
+{
+  "text": "Two threads ask for a reply: Priya wants your Q4 priorities by Thursday, and Maya asks about dinner on Saturday.",
+  "sources": [
+    {
+      "account": "demo-work",
+      "thread": "t-q4"
+    },
+    {
+      "account": "demo-personal",
+      "thread": "t-dinner"
+    }
+  ]
+}

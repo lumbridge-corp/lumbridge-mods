@@ -1,0 +1,20 @@
+[
+  {
+    "id": "855d592d11f57ef1",
+    "from": "Brightdesk <news@brightdesk.example>",
+    "date": 1794423260,
+    "subject": "The Weekly Brief: issue 48",
+    "text": "Five things worth reading this week.\n\n1. A note on planning.\n2. A note on rest.",
+    "new_text": "Five things worth reading this week.\n\n1. A note on planning.\n2. A note on rest.",
+    "attachments": [],
+    "sensitive": false,
+    "mailing_list": true,
+    "list_id": null,
+    "suspicious": true,
+    "suspicious_why": [
+      "hides text in invisible characters",
+      "hides text from the reader"
+    ],
+    "reply_to_differs": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "m4",
+    "from": "Tom Weller <tom@work.example>",
+    "date": 1794070800,
+    "subject": "Launch checklist",
+    "text": "I put the launch checklist in the shared drive. Can you own the docs section?",
+    "attachments": [],
+    "sensitive": false
+  },
+  {
+    "id": "m5",
+    "from": "Sam Example <sam@work.example>",
+    "date": 1794074400,
+    "subject": "Re: Launch checklist",
+    "text": "Yes, I'll take docs.\n\nOn Mon 9 Nov 2026 at 09:00, Sam Example <sam@work.example> wrote:\n> I put the launch checklist in the shared drive.\n> Can you own the docs section?",
+    "attachments": [],
+    "sensitive": false
+  }
+]

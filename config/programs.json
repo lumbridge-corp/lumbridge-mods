@@ -1,0 +1,21 @@
+{
+  "programs": {
+    "lumbridge-notes": {
+      "name": "Lumbridge Notes",
+      "tile": "#2a78d6",
+      "color": "#ffffff",
+      "run": [
+        "lumbridge-notes"
+      ]
+    },
+    "lbmail": {
+      "name": "Mail (lbmail)",
+      "tile": "#eb6834",
+      "color": "#ffffff",
+      "run": [
+        "lbmail",
+        "ls"
+      ]
+    }
+  }
+}

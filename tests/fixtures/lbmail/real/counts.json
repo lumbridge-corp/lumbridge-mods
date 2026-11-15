@@ -1,0 +1,47 @@
+[
+  {
+    "category": "important",
+    "threads": 4,
+    "unread": 2
+  },
+  {
+    "category": "personal",
+    "threads": 6,
+    "unread": 3
+  },
+  {
+    "category": "transactional",
+    "threads": 12,
+    "unread": 5
+  },
+  {
+    "category": "newsletter",
+    "threads": 9,
+    "unread": 9
+  },
+  {
+    "category": "promotion",
+    "threads": 15,
+    "unread": 14
+  },
+  {
+    "category": "notification",
+    "threads": 21,
+    "unread": 18
+  },
+  {
+    "category": "sensitive",
+    "threads": 3,
+    "unread": 1
+  },
+  {
+    "category": "spam",
+    "threads": 1,
+    "unread": 1
+  },
+  {
+    "category": "other",
+    "threads": 2,
+    "unread": 0
+  }
+]

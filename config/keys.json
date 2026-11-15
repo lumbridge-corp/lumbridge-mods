@@ -1,0 +1,7 @@
+{
+  "global": {
+    "ctrl-alt-m": "mod.open:lumbridge-mail",
+    "ctrl-alt-s": "lumbridge-favorites.toggle",
+    "ctrl-alt-r": "mod.open:lumbridge-restore"
+  }
+}
